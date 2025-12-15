@@ -63,7 +63,7 @@ Mình là **Hoàng Đức Thịnh**. Mình thích xây sản phẩm theo kiểu:
 - AI Advisor: tư vấn học tập theo dữ liệu thực
 ---
 
-## 🧩 Bảng dự án (giống style ảnh mẫu)
+## 🧩 Bảng dự án 
 > Tự động hiển thị số sao/fork/issues/PR
 
 | Dự án | Công nghệ | Sao | Fork | Issues | PR |
@@ -75,7 +75,7 @@ Mình là **Hoàng Đức Thịnh**. Mình thích xây sản phẩm theo kiểu:
 
 ---
 
-## 🧰 Công nghệ mình từng học (đầy đủ như bạn yêu cầu)
+## 🧰 Công nghệ mình từng học 
 
 ### 1) Ngôn ngữ
 ![C++](https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=c%2B%2B&logoColor=white)
