@@ -55,18 +55,12 @@ Mình là **Hoàng Đức Thịnh**. Mình thích xây sản phẩm theo kiểu:
 - **Student App (Desktop):** Python, CustomTkinter  
   → bảng điểm, biểu đồ, lộ trình học, GPA Simulator, AI Advisor (Gemini)
 
-**Tính năng nổi bật (tóm tắt):**
+**Tính năng nổi bật :**
 - Dashboard tổng quan
 - Import Excel (SV / điểm / CTĐT)
 - Warning System (luật cảnh báo linh hoạt)
 - Simulator: mục tiêu CPA, giả lập điểm các môn còn lại
 - AI Advisor: tư vấn học tập theo dữ liệu thực
-
-> Gợi ý thêm cho repo này để “xịn” hơn:
-> - Thêm ảnh demo UI (Admin + Student App) vào README
-> - Thêm sơ đồ kiến trúc/ERD (ảnh PNG)
-> - Thêm mục “Demo nhanh” + “Tài khoản test” + “Kịch bản sử dụng”
-
 ---
 
 ## 🧩 Bảng dự án (giống style ảnh mẫu)
@@ -104,7 +98,7 @@ Mình là **Hoàng Đức Thịnh**. Mình thích xây sản phẩm theo kiểu:
 ![ASP.NET%20MVC](https://img.shields.io/badge/ASP.NET%20MVC-111827?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white)
 
-### 5) Ghi chú định hướng (để profile “có chiều sâu”)
+### 5) Ghi chú định hướng 
 - **C++ / Java:** nền tảng tư duy giải thuật, OOP, cấu trúc dữ liệu
 - **C# / .NET / MVC / ASP.NET:** xây web/app theo mô hình tầng (Controller/Service/DAL), chuẩn doanh nghiệp
 - **Python / Flask:** triển khai nhanh backend, API, xử lý dữ liệu, tích hợp AI
@@ -112,7 +106,7 @@ Mình là **Hoàng Đức Thịnh**. Mình thích xây sản phẩm theo kiểu:
 
 ---
 
-## 🧱 Kiến trúc & tiêu chuẩn dự án (để nhìn chuyên nghiệp hơn)
+## 🧱 Kiến trúc & tiêu chuẩn dự án 
 Mình thường hướng đến:
 - **Tách lớp rõ ràng**: Model / Service / Controller / UI
 - **Cấu trúc thư mục rõ**: `backend/`, `student/`, `docs/`, `assets/`
@@ -127,7 +121,7 @@ Mình thường hướng đến:
 
 ---
 
-## 📈 Thống kê GitHub (tuỳ chọn)
+## 📈 Thống kê GitHub 
 <div align="center">
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=thinht7113&show_icons=true&hide_title=true" />
@@ -144,7 +138,3 @@ Mình thường hướng đến:
 - Facebook: 
 
 ---
-
-<!-- =========================================================
-  KẾT THÚC README
-========================================================= -->
