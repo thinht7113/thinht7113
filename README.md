@@ -2,7 +2,7 @@
 
 **Sinh viên CNTT** | Định hướng: **Web / Backend / Software**
 
-> "Ưu tiên phát triển các ứng dụng có tính thực tiễn cao, chú trọng vào trải nghiệm người dùng và kiến trúc phần mềm bền vững."
+> Ưu tiên phát triển các ứng dụng có tính thực tiễn cao, chú trọng vào trải nghiệm người dùng và kiến trúc phần mềm bền vững.
 
 <p align="left">
   <a href="https://thinht7113.github.io">🌐 Website</a> &nbsp;•&nbsp;
@@ -42,7 +42,7 @@
 ### 2. Store Project
 > Website bán hàng trực tuyến mô hình MVC.
 
-* **Repo:** [Link GitHub](https://github.com/thinht7113/Store)
+* **Repo:** [Link GitHub](https://github.com/thinht7113/Store-MVC)
 * **Công nghệ:** C#, .NET, ASP.NET MVC, SQL Server.
 * **Mô tả:** Xây dựng quy trình bán hàng, quản lý giỏ hàng và xử lý đơn hàng cơ bản.
 
