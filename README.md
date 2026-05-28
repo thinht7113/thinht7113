@@ -2,7 +2,6 @@
 
 **Sinh viên CNTT** | Định hướng: **Web / Backend / Software**
 
-> Ưu tiên phát triển các ứng dụng có tính thực tiễn cao, chú trọng vào trải nghiệm người dùng và kiến trúc phần mềm bền vững.
 
 <p align="left">
   <a href="https://ducthinhdev.id.vn/">🌐 Website</a> &nbsp;•&nbsp;
